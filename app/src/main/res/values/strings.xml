@@ -7,6 +7,12 @@
         <item>Nirvana</item>
         <item>U2</item>
         <item>Skillet</item>
+        <item>Fall Out Boy</item>
+        <item>Lovelytheband</item>
+        <item>Greed Day</item>
+        <item>Imagine Dragons</item>
+        <item>Maroon 5</item>
+        <item>OneRepublic</item>
     </string-array>
 
     <string-array name="descriptions">
@@ -14,5 +20,11 @@
         <item>An American rock band that formed in Washington in 1987.</item>
         <item>An Irish rock band from Dublin that formed in 1976.</item>
         <item>Skillet is an American Christian rock band formed in Memphis, Tennessee, in 1996.</item>
+        <item>Fall Out Boy is an American rock band formed in Wilmette, Illinois, a suburb of Chicago, in 2001.</item>
+        <item>Lovelytheband is an American indie pop band that formed in 2016 in Los Angeles, California, United States. </item>
+        <item>Green Day is an American rock band formed in the East Bay of California in 1987 by lead vocalist and guitarist Billie Joe Armstrong and bassist and backing vocalist Mike Dirnt.</item>
+        <item>Imagine Dragons is an American pop rock band from Las Vegas, Nevada.</item>
+        <item>Maroon 5 is an American pop rock band from Los Angeles, California.</item>
+        <item>OneRepublic is an American pop rock band formed in Colorado Springs, Colorado, in 2002.</item>
     </string-array>
 </resources>
